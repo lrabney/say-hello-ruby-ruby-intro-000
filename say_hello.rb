@@ -1,4 +1,4 @@
 def greeting
   puts "Hello, Ruby programmer!"
-  "say_hello(Gabriela!)"
+  puts "say_hello (Gabriela!)"
 end
